@@ -1,0 +1,32 @@
+[
+  {
+    "centre": "BICHOLIM",
+    "name": "aaryan manohar  kalangutkar",
+    "seat": 10002,
+    "totalMarks": "443",
+    "finalResult": "PASSES",
+    "subjects": [
+      { "subject": "English F.L.", "marks": "67" },
+      { "subject": "Hindi S.L.", "marks": "70" },
+      { "subject": "Konkani T.L.", "marks": "74" },
+      { "subject": "Mathematics Level -1 (E)", "marks": "79" },
+      { "subject": "Social Science(E)", "marks": "81" },
+      { "subject": "Science(E)", "marks": "72" }
+    ]
+  },
+  {
+    "centre": "BICHOLIM",
+    "name": "amodh amar naik",
+    "seat": 10003,
+    "totalMarks": "462",
+    "finalResult": "PASSES",
+    "subjects": [
+      { "subject": "English F.L.", "marks": "68" },
+      { "subject": "Hindi S.L.", "marks": "85" },
+      { "subject": "Konkani T.L.", "marks": "84" },
+      { "subject": "Mathematics Level -1 (E)", "marks": "67" },
+      { "subject": "Social Science(E)", "marks": "81" },
+      { "subject": "Science(E)", "marks": "77" }
+    ]
+  }
+]
